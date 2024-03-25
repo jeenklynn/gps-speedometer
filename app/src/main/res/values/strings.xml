@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">gps-speedometer</string>
+    <string name="speed_0_m_s">Speed: 0 m/s</string>
+</resources>
