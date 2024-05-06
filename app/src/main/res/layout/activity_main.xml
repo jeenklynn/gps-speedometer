@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="150dp"
-        android:text="Hız: 0 km/s"
+        android:text="@string/h_z_0_km_s"
         android:textSize="30sp" />
 
     <com.example.gps_speedometer.SpeedometerNeedle
@@ -27,6 +27,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:layout_centerHorizontal="true"
-        android:text="GPS Hız Ölçer"
+        android:text="@string/gps_h_z_l_er"
         android:textSize="40sp" />
 </RelativeLayout>
